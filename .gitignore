@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# PyCharm
+.idea/
+
+# MacOS
+.DS_Store
+
+
+# Ignore downloaded PDFs
+downloaded_pdfs/
