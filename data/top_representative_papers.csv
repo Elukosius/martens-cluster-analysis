@@ -1,16 +1,16 @@
-filename,themes,cluster_name,match_score
-why-we-still-need-parties-the-resilience-of-europes-political-parties-explained__Why-We-Still-Need-Parties.pdf,"['Elections and Parties', 'European Identity and Values', 'Populism and Extremism']","Society, Politics & Information Order",3
-how-mainstream-parties-can-defend-democracy-by-adopting-parts-of-the-populist-agenda__Democracy-and-Populism-In-Brief.pdf,"['Elections and Parties', 'European Identity and Values', 'Populism and Extremism', 'Social Protection and Housing']","Society, Politics & Information Order",3
-christian-democracy-conservatism-and-the-challenge-of-the-extremes__Christian-Democracy-Conservatism-and-the-Challenge-of-the-Extremes.pdf,"['Elections and Parties', 'European Identity and Values', 'Populism and Extremism']","Society, Politics & Information Order",3
-the-future-of-transatlantic-relations_Lete.pdf,"['Asia and Indo-Pacific', 'China', 'EU Enlargement', 'Middle East and North Africa', 'Russia and Ukraine', 'South Caucasus and Central Asia', 'Defence and Military', 'Transatlantic Relations']",Geopolitics & Strategic Regions,6
-intersecting-paths-strategic-autonomy-enlargement-and-the-future-of-eu-western-balkans-relations__Intersecting-Paths-v.6.pdf,"['Baltic Region', 'EU Enlargement', 'Russia and Ukraine', 'South Caucasus and Central Asia', 'Western Balkans', 'Transatlantic Relations']",Geopolitics & Strategic Regions,5
-navigating-demographic-dynamics-strategies-for-tomorrow_15.pdf,"['Baltic Region', 'EU Enlargement', 'Russia and Ukraine', 'South Caucasus and Central Asia', 'Western Balkans', 'Transatlantic Relations']",Geopolitics & Strategic Regions,5
-navigating-through-renewed-economic-uncertainty_4.pdf,"['Asia and Indo-Pacific', 'China', 'Russia and Ukraine', 'South Caucasus and Central Asia', 'Climate and Environment', 'Energy', 'Industrial and Economic Policy', 'Infrastructure and Transport', 'Trade', 'Transatlantic Relations']","Economy, Energy & Innovation",5
-the-7ds-digitalisation-extended__Digitalisation.pdf,"['China', 'AI & Technology', 'Climate and Environment', 'Education, Research and Youth', 'Industrial and Economic Policy', 'Infrastructure and Transport']","Economy, Energy & Innovation",5
-the-7ds-digitalisation-in-depth__Digitalisation.pdf,"['China', 'AI & Technology', 'Climate and Environment', 'Education, Research and Youth', 'Industrial and Economic Policy']","Economy, Energy & Innovation",4
-navigating-demographic-dynamics-strategies-for-tomorrow_7.pdf,"['Populism and Extremism', 'Education, Research and Youth', 'Demographics', 'Labour Market', 'Migration', 'Social Protection and Housing']",Social Europe & Labour Dynamics,4
-immigration-to-europe-the-big-picture-for-the-eu-and-its-member-states__Martens-Centre-Research-Paper.pdf,"['Populism and Extremism', 'Labour Market', 'Migration', 'Social Protection and Housing']",Social Europe & Labour Dynamics,3
-the-7ds-demography-in-depth__Demography.pdf,"['Climate and Environment', 'Education, Research and Youth', 'Demographics', 'Labour Market', 'Social Protection and Housing']",Social Europe & Labour Dynamics,3
-sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_3.pdf,"['Russia and Ukraine', 'Defence and Military', 'Transatlantic Relations']",Defence & Transatlantic Security,2
-overcoming-the-geography-of-discontent-new-perspectives-and-innovative-solutions_9.pdf,"['Russia and Ukraine', 'Defence and Military', 'Transatlantic Relations']",Defence & Transatlantic Security,2
-proposal-for-the-european-commission-white-paper-on-the-future-of-european-defence__Proposal-EU-Defence.pdf,"['Russia and Ukraine', 'Industrial and Economic Policy', 'Defence and Military', 'Transatlantic Relations']",Defence & Transatlantic Security,2
+paper_id,filename,cluster_name,match_score
+18,why-we-still-need-parties-the-resilience-of-europes-political-parties-explained__Why-We-Still-Need-Parties.pdf,"Society, Politics & Information Order",3
+25,how-mainstream-parties-can-defend-democracy-by-adopting-parts-of-the-populist-agenda__Democracy-and-Populism-In-Brief.pdf,"Society, Politics & Information Order",3
+56,christian-democracy-conservatism-and-the-challenge-of-the-extremes__Christian-Democracy-Conservatism-and-the-Challenge-of-the-Extremes.pdf,"Society, Politics & Information Order",3
+42,the-future-of-transatlantic-relations_Lete.pdf,Geopolitics & Strategic Regions,6
+91,intersecting-paths-strategic-autonomy-enlargement-and-the-future-of-eu-western-balkans-relations__Intersecting-Paths-v.6.pdf,Geopolitics & Strategic Regions,5
+126,navigating-demographic-dynamics-strategies-for-tomorrow_15.pdf,Geopolitics & Strategic Regions,5
+36,navigating-through-renewed-economic-uncertainty_4.pdf,"Economy, Energy & Innovation",5
+52,the-7ds-digitalisation-extended__Digitalisation.pdf,"Economy, Energy & Innovation",5
+8,the-7ds-digitalisation-in-depth__Digitalisation.pdf,"Economy, Energy & Innovation",4
+142,navigating-demographic-dynamics-strategies-for-tomorrow_7.pdf,Social Europe & Labour Dynamics,4
+7,immigration-to-europe-the-big-picture-for-the-eu-and-its-member-states__Martens-Centre-Research-Paper.pdf,Social Europe & Labour Dynamics,3
+10,the-7ds-demography-in-depth__Demography.pdf,Social Europe & Labour Dynamics,3
+9,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_3.pdf,Defence & Transatlantic Security,2
+62,overcoming-the-geography-of-discontent-new-perspectives-and-innovative-solutions_9.pdf,Defence & Transatlantic Security,2
+81,proposal-for-the-european-commission-white-paper-on-the-future-of-european-defence__Proposal-EU-Defence.pdf,Defence & Transatlantic Security,2

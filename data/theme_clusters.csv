@@ -1,0 +1,29 @@
+cluster_id,cluster_name,theme
+0,"Society, Politics & Information Order",Elections and Parties
+0,"Society, Politics & Information Order",European Identity and Values
+0,"Society, Politics & Information Order",Financial Stability
+0,"Society, Politics & Information Order",Populism and Extremism
+1,Geopolitics & Strategic Regions,Asia and Indo-Pacific
+1,Geopolitics & Strategic Regions,Baltic Region
+1,Geopolitics & Strategic Regions,China
+1,Geopolitics & Strategic Regions,EU Enlargement
+1,Geopolitics & Strategic Regions,Latin America and the Caribbean
+1,Geopolitics & Strategic Regions,Middle East and North Africa
+1,Geopolitics & Strategic Regions,Nordic Region
+1,Geopolitics & Strategic Regions,Russia and Ukraine
+1,Geopolitics & Strategic Regions,South Caucasus and Central Asia
+1,Geopolitics & Strategic Regions,Western Balkans
+2,"Economy, Energy & Innovation",AI & Technology
+2,"Economy, Energy & Innovation",Climate and Environment
+2,"Economy, Energy & Innovation","Education, Research and Youth"
+2,"Economy, Energy & Innovation",Energy
+2,"Economy, Energy & Innovation",Industrial and Economic Policy
+2,"Economy, Energy & Innovation",Infrastructure and Transport
+2,"Economy, Energy & Innovation",Trade
+3,Social Europe & Labour Dynamics,Demographics
+3,Social Europe & Labour Dynamics,Labour Market
+3,Social Europe & Labour Dynamics,Migration
+3,Social Europe & Labour Dynamics,Social Protection and Housing
+4,Defence & Transatlantic Security,Defence and Military
+4,Defence & Transatlantic Security,Disinformation & Cybersecurity
+4,Defence & Transatlantic Security,Transatlantic Relations
