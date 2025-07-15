@@ -28,7 +28,7 @@ paper_id,filename,theme
 7,immigration-to-europe-the-big-picture-for-the-eu-and-its-member-states__Martens-Centre-Research-Paper.pdf,Migration
 7,immigration-to-europe-the-big-picture-for-the-eu-and-its-member-states__Martens-Centre-Research-Paper.pdf,Social Protection and Housing
 8,the-7ds-digitalisation-in-depth__Digitalisation.pdf,China
-8,the-7ds-digitalisation-in-depth__Digitalisation.pdf,AI & Technology
+8,the-7ds-digitalisation-in-depth__Digitalisation.pdf,AI and Technology
 8,the-7ds-digitalisation-in-depth__Digitalisation.pdf,Climate and Environment
 8,the-7ds-digitalisation-in-depth__Digitalisation.pdf,"Education, Research and Youth"
 8,the-7ds-digitalisation-in-depth__Digitalisation.pdf,Industrial and Economic Policy
@@ -116,14 +116,14 @@ paper_id,filename,theme
 32,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_5.pdf,Climate and Environment
 32,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_5.pdf,Industrial and Economic Policy
 32,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_5.pdf,Social Protection and Housing
-33,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_4.pdf,AI & Technology
+33,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_4.pdf,AI and Technology
 33,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_4.pdf,Climate and Environment
 33,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_4.pdf,Industrial and Economic Policy
 34,navigating-demographic-dynamics-strategies-for-tomorrow_8.pdf,Labour Market
 34,navigating-demographic-dynamics-strategies-for-tomorrow_8.pdf,Migration
 34,navigating-demographic-dynamics-strategies-for-tomorrow_8.pdf,Social Protection and Housing
 35,enhancing-election-integrity-by-strengthening-eu-defences-against-disinformation__Elections-Integrity-Policy-Brief.pdf,Elections and Parties
-35,enhancing-election-integrity-by-strengthening-eu-defences-against-disinformation__Elections-Integrity-Policy-Brief.pdf,Disinformation & Cybersecurity
+35,enhancing-election-integrity-by-strengthening-eu-defences-against-disinformation__Elections-Integrity-Policy-Brief.pdf,Disinformation and Cybersecurity
 36,navigating-through-renewed-economic-uncertainty_4.pdf,Asia and Indo-Pacific
 36,navigating-through-renewed-economic-uncertainty_4.pdf,China
 36,navigating-through-renewed-economic-uncertainty_4.pdf,Russia and Ukraine
@@ -189,7 +189,7 @@ paper_id,filename,theme
 51,the-7ds-demography-extended__Demography.pdf,Labour Market
 51,the-7ds-demography-extended__Demography.pdf,Social Protection and Housing
 52,the-7ds-digitalisation-extended__Digitalisation.pdf,China
-52,the-7ds-digitalisation-extended__Digitalisation.pdf,AI & Technology
+52,the-7ds-digitalisation-extended__Digitalisation.pdf,AI and Technology
 52,the-7ds-digitalisation-extended__Digitalisation.pdf,Climate and Environment
 52,the-7ds-digitalisation-extended__Digitalisation.pdf,"Education, Research and Youth"
 52,the-7ds-digitalisation-extended__Digitalisation.pdf,Industrial and Economic Policy
@@ -318,7 +318,7 @@ paper_id,filename,theme
 81,proposal-for-the-european-commission-white-paper-on-the-future-of-european-defence__Proposal-EU-Defence.pdf,Defence and Military
 81,proposal-for-the-european-commission-white-paper-on-the-future-of-european-defence__Proposal-EU-Defence.pdf,Transatlantic Relations
 82,navigating-demographic-dynamics-strategies-for-tomorrow__European-View-Spring-2024.pdf,Demographics
-83,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_11.pdf,AI & Technology
+83,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_11.pdf,AI and Technology
 83,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_11.pdf,Climate and Environment
 83,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_11.pdf,"Education, Research and Youth"
 83,sustainable-europe-cross-cutting-strategies-for-a-future-proof-union_11.pdf,Industrial and Economic Policy
@@ -418,7 +418,7 @@ paper_id,filename,theme
 108,strengthening-the-lgbtiq-voice-as-part-of-the-centre-right-narrative__EPPride-Position-Paper.pdf,European Identity and Values
 108,strengthening-the-lgbtiq-voice-as-part-of-the-centre-right-narrative__EPPride-Position-Paper.pdf,Populism and Extremism
 108,strengthening-the-lgbtiq-voice-as-part-of-the-centre-right-narrative__EPPride-Position-Paper.pdf,Social Protection and Housing
-109,navigating-demographic-dynamics-strategies-for-tomorrow_12.pdf,AI & Technology
+109,navigating-demographic-dynamics-strategies-for-tomorrow_12.pdf,AI and Technology
 109,navigating-demographic-dynamics-strategies-for-tomorrow_12.pdf,Climate and Environment
 110,why-europe-needs-a-nuclear-deterrent-a-critical-appraisal__Martens-Centre-Research-Paper-1.pdf,Defence and Military
 110,why-europe-needs-a-nuclear-deterrent-a-critical-appraisal__Martens-Centre-Research-Paper-1.pdf,Transatlantic Relations
@@ -492,7 +492,7 @@ paper_id,filename,theme
 127,overcoming-the-geography-of-discontent-new-perspectives-and-innovative-solutions_7.pdf,Defence and Military
 127,overcoming-the-geography-of-discontent-new-perspectives-and-innovative-solutions_7.pdf,Transatlantic Relations
 128,the-agenda-of-the-new-eu-institutional-cycle__Eleventh-European-Studies-conference-proceedings.pdf,Populism and Extremism
-129,artificial-intelligence-and-democracy__AI-and-Democracy.pdf,AI & Technology
+129,artificial-intelligence-and-democracy__AI-and-Democracy.pdf,AI and Technology
 130,evaluating-chinas-energy-outlook-the-reds-are-far-from-green__Evaluating-Chinas-Energy-Outlook.pdf,Asia and Indo-Pacific
 130,evaluating-chinas-energy-outlook-the-reds-are-far-from-green__Evaluating-Chinas-Energy-Outlook.pdf,China
 130,evaluating-chinas-energy-outlook-the-reds-are-far-from-green__Evaluating-Chinas-Energy-Outlook.pdf,Climate and Environment
@@ -536,7 +536,7 @@ paper_id,filename,theme
 140,navigating-through-renewed-economic-uncertainty_14.pdf,Transatlantic Relations
 141,navigating-through-renewed-economic-uncertainty_15.pdf,Elections and Parties
 141,navigating-through-renewed-economic-uncertainty_15.pdf,Populism and Extremism
-141,navigating-through-renewed-economic-uncertainty_15.pdf,Disinformation & Cybersecurity
+141,navigating-through-renewed-economic-uncertainty_15.pdf,Disinformation and Cybersecurity
 142,navigating-demographic-dynamics-strategies-for-tomorrow_7.pdf,Populism and Extremism
 142,navigating-demographic-dynamics-strategies-for-tomorrow_7.pdf,"Education, Research and Youth"
 142,navigating-demographic-dynamics-strategies-for-tomorrow_7.pdf,Demographics
@@ -548,7 +548,7 @@ paper_id,filename,theme
 143,chinas-influence-on-the-western-balkans-eu-accession-process-synergies-and-obstacles__Chinas-Influence-on-the-Western-Balkans-EU-Accession-Process-Synergies-and-Obstacles.pdf,EU Enlargement
 143,chinas-influence-on-the-western-balkans-eu-accession-process-synergies-and-obstacles__Chinas-Influence-on-the-Western-Balkans-EU-Accession-Process-Synergies-and-Obstacles.pdf,South Caucasus and Central Asia
 143,chinas-influence-on-the-western-balkans-eu-accession-process-synergies-and-obstacles__Chinas-Influence-on-the-Western-Balkans-EU-Accession-Process-Synergies-and-Obstacles.pdf,Western Balkans
-144,overcoming-the-geography-of-discontent-new-perspectives-and-innovative-solutions_12.pdf,Disinformation & Cybersecurity
+144,overcoming-the-geography-of-discontent-new-perspectives-and-innovative-solutions_12.pdf,Disinformation and Cybersecurity
 145,the-7ds-for-sustainability-175-proposals-for-the-next-legislature__The-7Ds-for-Sustainability.pdf,European Identity and Values
 145,the-7ds-for-sustainability-175-proposals-for-the-next-legislature__The-7Ds-for-Sustainability.pdf,China
 145,the-7ds-for-sustainability-175-proposals-for-the-next-legislature__The-7Ds-for-Sustainability.pdf,Climate and Environment
